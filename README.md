@@ -20,7 +20,7 @@
   <a href="mailto:gkumarc121@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/kunal-diwakar-6772a62b7](https://www.linkedin.com/in/gaurav-singh-chauhan-18102a2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="[https://www.linkedin.com/in/gaurav-singh-chauhan-18102a2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
