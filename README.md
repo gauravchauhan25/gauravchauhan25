@@ -30,8 +30,8 @@
 <h2 align="center">Languages-Frameworks-Tools used</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,php" />
-    <img src="https://skillicons.dev/icons?i=c,mongodb,mysql,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=c,mongodb,mysql,github,vscode,appwrite" /><br>
 </div>
 
 <br/>
