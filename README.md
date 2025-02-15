@@ -36,3 +36,8 @@
 
 <br/>
 <hr/>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchauhan25&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravchauhan25&theme=radical" alt="GitHub Streak" width="400"/>
+</div>
